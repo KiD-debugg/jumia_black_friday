@@ -1,0 +1,21 @@
+# Python virtual environment
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
